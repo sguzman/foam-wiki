@@ -19,15 +19,15 @@
 >Produced by Miranda van de Heijning, Paz Barrios and the PG Online
 >Distributed Proofreading Team.
 >
-# FILOSOFÍA FUNDAMENTAL {#id00008 style="margin-top: 6em"}
+# FILOSOFÍA FUNDAMENTAL
 
 por D. JAIME BALMES, PRESBITERO.
 
-##### TOMO I. {#id00010}
+##### TOMO I.
 
 Barcelona: IMPRENTA DE A. BRUSI. 1848
 
-## PRÓLOGO. {#id00012 style="margin-top: 4em"}
+## PRÓLOGO.
 
 El título de *Filosofía fundamental*, no significa una pretension
 vanidosa, sino el objeto de que se trata. No me lisonjeo en *fundar* de
@@ -46,13 +46,13 @@ solo puede precaverse con estudios sólidos y bien dirigidos: en nuestra
 con la abundancia del bien. La presente obra ¿podrá conducir á este
 objeto? El público lo ha de juzgar.
 
-# LIBRO PRIMERO. {#id00014 style="margin-top: 6em"}
+# LIBRO PRIMERO.
 
-##### DE LA CERTEZA. {#id00015}
+##### DE LA CERTEZA.
 
-## CAPÍTULO I. {#id00016 style="margin-top: 4em"}
+## CAPÍTULO I.
 
-##### IMPORTANCIA Y UTILIDAD DE LAS CUESTIONES SOBRE LA CERTEZA {#id00017}
+##### IMPORTANCIA Y UTILIDAD DE LAS CUESTIONES SOBRE LA CERTEZA
 
 \[1.\] El estudio de la filosofía debe comenzar por el exámen de las
 cuestiones sobre la certeza; antes de levantar el edificio es necesario
@@ -167,9 +167,9 @@ actividad íntima, espontánea, radicada en su naturaleza misma, nos
 ofrece la imágen de la actividad infinita que ha sacado el mundo de la
 nada con un solo acto de su voluntad\[I\].
 
-## CAPÍTULO II. {#id00028 style="margin-top: 4em"}
+## CAPÍTULO II.
 
-##### VERDADERO ESTADO DE LA CUESTION. {#id00029}
+##### VERDADERO ESTADO DE LA CUESTION.
 
 \[5.\] ¿Estamos ciertos de algo? á esta pregunta responde
 afirmativamente el sentido comun. ¿En qué se funda la certeza? ¿cómo la
@@ -406,9 +406,9 @@ puede; para ejercer su fuerza exige un punto de apoyo; con él ofrecia
 Arquímedes levantar la tierra; sin él la inmensa palanca no hubiera
 movido un solo átomo (II).
 
-## CAPÍTULO III. {#id00053 style="margin-top: 4em"}
+## CAPÍTULO III.
 
-##### DOS CERTEZAS: LA DEL GÉNERO HUMANO Y LA FILOSOFÍA. {#id00054}
+##### DOS CERTEZAS: LA DEL GÉNERO HUMANO Y LA FILOSOFÍA.
 
 \[16.\] La certeza no nace de la reflexion; es un producto espontáneo de
 la naturaleza del hombre, y va aneja al acto directo de las facultades
@@ -731,9 +731,9 @@ corre la humanidad en el torrente de los siglos, y nos inclina á aceptar
 con una filosofía juiciosa, lo mismo que de todos modos nos fuerzan á
 aceptar las leyes de nuestra naturaleza (III).
 
-## CAPÍTULO IV. {#id00095 style="margin-top: 4em"}
+## CAPÍTULO IV.
 
-##### SI EXISTE LA CIENCIA TRASCENDENTAL EN EL ÓRDEN INTELECTUAL ABSOLUTO. {#id00096}
+##### SI EXISTE LA CIENCIA TRASCENDENTAL EN EL ÓRDEN INTELECTUAL ABSOLUTO.
 
 \[38.\] Los filósofos han buscado un primer principio de los
 conocimientos humanos: cada cual le ha señalado á su manera, y despues
@@ -999,9 +999,9 @@ cuando se afana por la simplificacion y la unidad; así lo estima el
 sentido comun, que considera tanto mas alto y noble el pensamiento,
 cuanto es mas vasto y mas uno (IV).
 
-## CAPÍTULO V. {#id00121 style="margin-top: 4em"}
+## CAPÍTULO V.
 
-##### NO EXISTE LA CIENCIA TRASCENDENTAL EN EL ORDEN INTELECTUAL HUMANO NO PUEDE DIMANAR DE LOS SENTIDOS. {#id00122}
+##### NO EXISTE LA CIENCIA TRASCENDENTAL EN EL ORDEN INTELECTUAL HUMANO NO PUEDE DIMANAR DE LOS SENTIDOS.
 
 \[53.\] En el órden intelectual humano, mientras vivimos sobre la
 tierra, no hay una verdad de la cual dimanen todas: en vano la han
@@ -1155,9 +1155,9 @@ trascendental, no sirven por sí solas para establecer ninguna ciencia;
 pues de ellas, por ser hechos contingentes, no pueden dimanar las
 verdades necesarias (V).
 
-## CAPÍTULO VI. {#id00138 style="margin-top: 4em"}
+## CAPÍTULO VI.
 
-##### CONTINÚA LA DISCUSION SOBRE LA CIENCIA TRASCENDENTAL. INSUFICIENCIA DE LAS VERDADES REALES. {#id00139}
+##### CONTINÚA LA DISCUSION SOBRE LA CIENCIA TRASCENDENTAL. INSUFICIENCIA DE LAS VERDADES REALES.
 
 \[64.\] Ha sido conveniente rebatir de paso el sistema de Condillac, no
 por su importancia intrínseca, ni porque no esté ya bastante
@@ -1279,7 +1279,7 @@ inmenso en las ciencias que tienen por objeto el mundo visible; ¿pero
 qué sabríamos por esto del mundo de las inteligencias? ¿qué del mundo de
 la posibilidad? (VI).
 
-## CAPÍTULO VII. {#id00151 style="margin-top: 4em"}
+## CAPÍTULO VII.
 
 ESTERILIDAD DE LA FILOSOFÍA DEL *yo* PARA PRODUCIR LA CIENCIA\
 TRASCENDENTAL.\
@@ -1768,9 +1768,9 @@ pretende atribuirle para establecer sobre ella una ciencia
 trascendental, pues que se lisonjea de poder determinar el principio
 absolutamente incondicional de todos los conocimientos humanos (VII).
 
-# CAPÍTULO VIII. {#id00199 style="margin-top: 5em"}
+# CAPÍTULO VIII.
 
-##### LA IDENTIDAD UNIVERSAL. {#id00200}
+##### LA IDENTIDAD UNIVERSAL.
 
 \[85.\] Para dar unidad á la ciencia apelan algunos á la identidad
 universal; pero esto no es encontrar la unidad, sino refugiarse en el
@@ -2007,9 +2007,9 @@ del hecho primitivo, es el mismo hecho que se despliega ofreciendo
 diferentes formas, extendiéndose como un océano infinito: su lugar es un
 espacio sin límites, su duracion la eternidad (VIII).
 
-## CAPÍTULO IX. {#id00222 style="margin-top: 4em"}
+## CAPÍTULO IX.
 
-##### CONTINÚA EL EXÁMEN DEL SISTEMA DE LA IDENTIDAD UNIVERSAL. {#id00223}
+##### CONTINÚA EL EXÁMEN DEL SISTEMA DE LA IDENTIDAD UNIVERSAL.
 
 \[100.\] Estos sistemas tan absurdos como funestos, y que bajo formas
 distintas y por diversos caminos, van á parar al panteismo, encierran no
@@ -2101,9 +2101,9 @@ beatífica, parece realizado sobre la tierra, en la region de la
 filosofía. Estas son pretensiones insensatas, que estaban muy lejos del
 ánimo y del sistema de Malebranche (IX).
 
-## CAPÍTULO X. {#id00233 style="margin-top: 4em"}
+## CAPÍTULO X.
 
-##### EL PROBLEMA DE LA REPRESENTACION. MÓNADAS DE LEIBNITZ. {#id00234}
+##### EL PROBLEMA DE LA REPRESENTACION. MÓNADAS DE LEIBNITZ.
 
 \[105.\] La pretension de encontrar una verdad real en que se funden
 todas las demás, es sumamente peligrosa, por mas que á primera vista
@@ -2238,9 +2238,9 @@ hasta el punto de hacer alteraciones gravísimas en su segunda edicion de
 la *Crítica de la razon pura*, por temor de que se le tuviese por
 plagiario del idealismo de Berkeley (X).
 
-## CAPÍTULO XI. {#id00250 style="margin-top: 4em"}
+## CAPÍTULO XI.
 
-##### EXÁMEN DEL PROBLEMA DE LA REPRESENTACION. {#id00251}
+##### EXÁMEN DEL PROBLEMA DE LA REPRESENTACION.
 
 \[111.\] Todo lo conocemos por la representacion; sin ella el
 conocimiento es inconcebible; no obstante ¿qué es la representacion
@@ -2389,9 +2389,9 @@ mismo en su esencia. Dios no se distingue de su esencia; tenemos pues la
 identidad unida con la representacion, y el ser inteligente identificado
 con la cosa entendida (XI).
 
-## CAPÍTULO XII. {#id00269 style="margin-top: 4em"}
+## CAPÍTULO XII.
 
-##### INTELIGIBILIDAD INMEDIATA. {#id00270}
+##### INTELIGIBILIDAD INMEDIATA.
 
 \[120.\] No todas las cosas tienen representacion activa ni aun pasiva;
 quiero decir que no todas están dotadas de actividad intelectual, ni son
@@ -2619,9 +2619,9 @@ Dios.
 todos los hechos; sino que debe acabar y acaba por este hecho supremo,
 por la existencia infinita, que es Dios (XII).
 
-## CAPÍTULO XIII. {#id00307 style="margin-top: 4em"}
+## CAPÍTULO XIII.
 
-##### REPRESENTACION DE CAUSALIDAD Y DE IDEALIDAD. {#id00308}
+##### REPRESENTACION DE CAUSALIDAD Y DE IDEALIDAD.
 
 \[126.\] A mas de la representacion por identidad, hay la que he llamado
 de causalidad. Un ser puede representarse á sí propio; una causa puede
@@ -2809,9 +2809,9 @@ estas representaciones, bien que sujeta á la determinacion de causas
 existentes? Estas son cuestiones que por ahora me contento con indicar
 (XIII).
 
-## CAPÍTULO XIV. {#id00327 style="margin-top: 4em"}
+## CAPÍTULO XIV.
 
-##### IMPOSIBILIDAD DE HALLAR EL PRIMER PRINCIPIO EN EL ÓRDEN IDEAL. {#id00328}
+##### IMPOSIBILIDAD DE HALLAR EL PRIMER PRINCIPIO EN EL ÓRDEN IDEAL.
 
 \[138.\] Lo que no hemos encontrado en la region de los hechos, tampoco
 lo hallaremos en la de las ideas; pues no hay ninguna verdad ideal
@@ -2907,11 +2907,11 @@ en el órden geométrico, nos limitamos á combinaciones que no salen de
 él; y si en el órden no geométrico, nos falta la idea del espacio, y con
 ella perdemos hasta la posibilidad de concebir el mundo corpóreo (XIV).
 
-## CAPÍTULO XV. {#id00338 style="margin-top: 4em"}
+## CAPÍTULO XV.
 
-##### LA CONDICION INDISPENSABLE DE TODO CONOCIMIENTO HUMANO. {#id00339}
+##### LA CONDICION INDISPENSABLE DE TODO CONOCIMIENTO HUMANO.
 
-##### MEDIOS DE PERCEPCION DE LA VERDAD. {#id00340}
+##### MEDIOS DE PERCEPCION DE LA VERDAD.
 
 \[143.\] No hemos podido encontrar ni en el órden real ni en el ideal,
 una verdad orígen de todas las demás, para nuestro entendimiento,
@@ -3229,9 +3229,9 @@ ruda é indigesta: si quitáis la gravitacion y dejais la fuerza de
 proyeccion, los cuerpos todos se descompondrán en átomos imperceptibles,
 dispersándose cual éter levísimo por las regiones de la inmensidad (XV).
 
-## CAPÍTULO XVI. {#id00369 style="margin-top: 4em"}
+## CAPÍTULO XVI.
 
-##### CONFUSION DE IDEAS EN LAS DISPUTAS SOBRE EL PRINCIPIO FUNDAMENTAL. {#id00370}
+##### CONFUSION DE IDEAS EN LAS DISPUTAS SOBRE EL PRINCIPIO FUNDAMENTAL.
 
 \[160.\] En mi concepto hay varios principios que con relacion al
 entendimiento humano pueden llamarse igualmente fundamentales, ya porque
@@ -3330,9 +3330,9 @@ el que somos llevados á creer verdadero lo que conocemos con evidencia.
 La importancia de la cuestion exige que examinemos por separado los tres
 principios; así lo haré en los capítulos siguientes (XVI).
 
-## CAPÍTULO XVII. {#id00380 style="margin-top: 4em"}
+## CAPÍTULO XVII.
 
-##### LA EXISTENCIA Y EL PENSAMIENTO. PRINCIPIO DE DESCARTES. {#id00381}
+##### LA EXISTENCIA Y EL PENSAMIENTO. PRINCIPIO DE DESCARTES.
 
 \[163.\] ¿Estoy seguro de que existo? sí. ¿Puedo probarlo? nó. La prueba
 supone un raciocinio; no hay raciocinio sólido sin principio firme en
@@ -3497,9 +3497,9 @@ esencia de esta con su misma existencia. Sintió el pensamiento, y dijo:
 valor de esta doctrina, y sí tan solo de explicar en qué consiste
 (XVII).
 
-## CAPÍTULO XVIII. {#id00397 style="margin-top: 4em"}
+## CAPÍTULO XVIII.
 
-##### MAS SOBRE EL PRINCIPIO DE DESCARTES. SU MÉTODO. {#id00398}
+##### MAS SOBRE EL PRINCIPIO DE DESCARTES. SU MÉTODO.
 
 \[170.\] Descartes al anunciar y explicar su principio, no siempre se
 expresó con la debida exactitud, lo cual dió motivo á que se
@@ -3730,11 +3730,11 @@ entra en una serie interminable de actos reflejos que se encadenan por
 necesidad unos con otros, y se desenvuelven á la vista interior como los
 pliegues de un lienzo sin fin (XVIII).
 
-## CAPÍTULO XIX. {#id00418 style="margin-top: 4em"}
+## CAPÍTULO XIX.
 
-##### LO QUE VALE EL PRINCIPIO: YO PIENSO. {#id00419}
+##### LO QUE VALE EL PRINCIPIO: YO PIENSO.
 
-##### SU ANÁLISIS. {#id00420}
+##### SU ANÁLISIS.
 
 \[178.\] El principio de Descartes considerado como un entimema, ya
 hemos visto que no puede aspirar al título de fundamental. En todo
@@ -3995,11 +3995,11 @@ despertar la razon, que nó una combinacion para reconstruirla; es un
 hombre dormido ó desvanecido á quien se llama y se toca para volverle en
 sí, nó un adversario con quien se disputa (XIX).
 
-## CAPÍTULO XX. {#id00459 style="margin-top: 4em"}
+## CAPÍTULO XX.
 
-##### VERDADERO SENTIDO DEL PRINCIPIO DE CONTRADICCION. {#id00460}
+##### VERDADERO SENTIDO DEL PRINCIPIO DE CONTRADICCION.
 
-##### OPINION DE KANT. {#id00461}
+##### OPINION DE KANT.
 
 \[189.\] Antes de examinar el valor del principio de contradiccion como
 punto de apoyo de todo conocimiento, será bien fijar con exactitud su
@@ -4408,9 +4408,9 @@ debe ser conservada tal como está, y que no debe suprimirse la condicion
 del tiempo, porque de otro modo se inutilizaria la fórmula para
 muchísimos casos (XX).
 
-## CAPÍTULO XXI. {#id00490 style="margin-top: 4em"}
+## CAPÍTULO XXI.
 
-##### SI EL PRINCIPIO DE CONTRADICCION MERECE EL TÍTULO DE FUNDAMENTAL; Y EN QUÉ SENTIDO. {#id00491}
+##### SI EL PRINCIPIO DE CONTRADICCION MERECE EL TÍTULO DE FUNDAMENTAL; Y EN QUÉ SENTIDO.
 
 \[204.\] Aclarado ya el verdadero sentido del principio de
 contradiccion, veamos si merece el título de fundamental, reuniendo
@@ -4424,7 +4424,7 @@ reduciéndole á buen camino por demostracion, al menos indirecta.
 refieren al principio de contradiccion, asentaré algunas proposiciones
 acompañándolas con la demostracion correspondiente.
 
-##### PRIMERA PROPOSICION. {#id00494}
+##### PRIMERA PROPOSICION.
 
 Si se niega el principio de contradiccion, se desploma toda certeza,
 toda verdad, todo conocimiento.
@@ -4450,7 +4450,7 @@ sino para sentir la imposibilidad radical de pensar nada; solo ve á la
 contradiccion que señoreada de la inteligencia, destruye con fuerza
 irresistible cuanto se quiera levantar.
 
-##### SEGUNDA PROPOSICION. {#id00497}
+##### SEGUNDA PROPOSICION.
 
 \[206.\] No basta que no se suponga falso el principio de contradiccion;
 es preciso además suponerle verdadero, si no se quiere que se arruine
@@ -4471,7 +4471,7 @@ como asida de un punto inmóvil; la menor vacilacion, el mas ligero
 *quién sabe*!.... sobre este principio, lo arruina todo: la posibilidad
 de un absurdo es ya por si misma un absurdo.
 
-##### TERCERA PROPOSICION {#id00501}
+##### TERCERA PROPOSICION
 
 \[207.\] Es imposible encontrar un principio que nos asegure de la
 verdad del de contradiccion.
@@ -4484,7 +4484,7 @@ contradiccion con otro principio que á su vez supondrá siempre el de
 contradiccion. Tendremos pues un edificio que estribará sobre un
 cimiento y un cimiento que estribará sobre el mismo edificio.
 
-##### CUARTA PROPOSICION. {#id00504}
+##### CUARTA PROPOSICION.
 
 \[208.\] A quien niegue el principio de contradiccion, no se le puede
 reducir directa ni indirectamente por ningun otro.
@@ -4494,7 +4494,7 @@ hombre que admite la posibilidad del sí y del nó en todo. Cuando se le
 reduzca al sí, no se le hará perder el nó, y vice-versa. Es imposible no
 solo argumentar, sino hablar, ni pensar en suposicion semejante.
 
-##### QUINTA PROPOSICION. {#id00507}
+##### QUINTA PROPOSICION.
 
 \[209.\] No es exacto lo que suele decirse que con el principio de
 contradiccion podamos argüir de una manera concluyente contra quien
@@ -4557,7 +4557,7 @@ este principio: método que mas bien que de argumentacion, podria
 llamarse de explicacion de términos y análisis de conceptos, porque es
 claro que no se ha hecho mas que definir aquellos y descomponer estos.
 
-##### SEXTA PROPOSICION. {#id00522}
+##### SEXTA PROPOSICION.
 
 \[211.\] El principio de contradiccion no puede ser conocido sino por
 evidencia inmediata.
@@ -4619,9 +4619,9 @@ caso presente, pues no solo no es necesaria ninguna combinacion, sino
 que todas son imposibles si no se presupone la verdad del principio
 (XXI).
 
-## CAPÍTULO XXII. {#id00530 style="margin-top: 4em"}
+## CAPÍTULO XXII.
 
-##### EL PRINCIPIO DE LA EVIDENCIA. {#id00531}
+##### EL PRINCIPIO DE LA EVIDENCIA.
 
 \[216.\] Entre los principios que han figurado en las escuelas en
 primera línea, con pretension al título de fundamentales, se encuentra
@@ -4776,9 +4776,9 @@ siente con los medios necesarios para raciocinar y construir un edificio
 científico con respecto al universo real del que tiene conocimiento por
 la experiencia (XXII).
 
-## CAPÍTULO XXIII. {#id00546 style="margin-top: 4em"}
+## CAPÍTULO XXIII.
 
-##### CRITERIO DE LA CONCIENCIA. {#id00547}
+##### CRITERIO DE LA CONCIENCIA.
 
 \[225.\] Apreciado el mérito de los tres principios, de conciencia, de
 contradiccion y de evidencia, con respecto á la dignidad de principio
@@ -4940,13 +4940,13 @@ valor y la extension del criterio de la conciencia, lo que haré en las
 siguientes proposiciones, advirtiendo que en todas ellas me refiero á la
 conciencia directa.
 
-##### PROPOSICION PRIMERA. {#id00568}
+##### PROPOSICION PRIMERA.
 
 El testimonio de la conciencia se extiende á todos los fenómenos que se
 realizan en nuestra alma, considerada como un ser intelectual y
 sensitivo.
 
-##### PROPOSICION SEGUNDA. {#id00570}
+##### PROPOSICION SEGUNDA.
 
 \[236.\] Si en nuestra alma existen fenómenos de algun otro órden, es
 decir, que ella pueda ser modificada en algun modo en facultades no
@@ -4976,27 +4976,27 @@ producidos por el alma, como es cierto, hay en ella un ejercicio de
 actividad de que, ó no tiene conciencia, ó la tiene tan confusa y tan
 débil que es como si no la tuviese.
 
-##### PROPOSICION TERCERA. {#id00574}
+##### PROPOSICION TERCERA.
 
 \[237.\] El testimonio de la conciencia considerado en *sí mismo*, se
 limita de tal modo á lo puramente interno, que *por sí solo* nada vale
 para lo externo: ya sea para el criterio de la evidencia, ya para el de
 los sentidos.
 
-##### PROPOSICION CUARTA. {#id00576}
+##### PROPOSICION CUARTA.
 
 El testimonio de la conciencia es fundamento de los demás criterios en
 cuanto es un hecho que todos ellos han menester, y sin el cual son
 imposibles.
 
-##### PROPOSICION QUINTA. {#id00578}
+##### PROPOSICION QUINTA.
 
 \[238.\] De la combinacion de la conciencia con el instinto intelectual,
 nacen todos los demás criterios (XXIII).
 
-## CAPÍTULO XXIV. {#id00580 style="margin-top: 4em"}
+## CAPÍTULO XXIV.
 
-##### CRITERIO DE LA EVIDENCIA. {#id00581}
+##### CRITERIO DE LA EVIDENCIA.
 
 \[239.\] Hay dos especies de evidencia: inmediata y mediata. Se llama
 evidencia inmediata, la que solo ha menester la inteligencia de los
@@ -5162,9 +5162,9 @@ existir si esta objetividad se destruye absolutamente. Ruego al lector
 me siga con atencion en un breve pero severo análisis de los hechos de
 conciencia en sus relaciones con la objetividad de las ideas (XXIV).
 
-## CAPÍTULO XXV. {#id00598 style="margin-top: 4em"}
+## CAPÍTULO XXV.
 
-##### VALOR OBJETIVO DE LAS IDEAS. {#id00599}
+##### VALOR OBJETIVO DE LAS IDEAS.
 
 \[247.\] La transicion del sujeto al objeto, ó de la apariencia
 subjetiva á la realidad objetiva, es el problema que atormenta á la
@@ -5433,9 +5433,9 @@ una criatura tan débil, admite algunas excepciones; pero estas son
 conocidas, porque tienen caractéres marcados. La excepcion no destruye
 la regla, sino que la confirma (XXV).
 
-## CAPÍTULO XXVI. {#id00627 style="margin-top: 4em"}
+## CAPÍTULO XXVI.
 
-##### SI TODOS LOS CONOCIMIENTOS SE REDUCEN Á LA PERCEPCION DE LA IDENTIDAD. {#id00628}
+##### SI TODOS LOS CONOCIMIENTOS SE REDUCEN Á LA PERCEPCION DE LA IDENTIDAD.
 
 \[264.\] La evidencia inmediata tiene por objeto las verdades que el
 entendimiento alcanza con toda claridad, y á que asiente con absoluta
@@ -5589,9 +5589,9 @@ dicho en los párrafos anteriores, se puede columbrar cuál es el sentido
 de esta opinion; pero la importancia de la materia exige otras
 aclaraciones.
 
-## CAPÍTULO XXVII. {#id00641 style="margin-top: 4em"}
+## CAPÍTULO XXVII.
 
-##### CONTINUACION. {#id00642}
+##### CONTINUACION.
 
 \[269.\] Es hasta ridículo el decir que los conocimientos de los mas
 sublimes matemáticos, se hayan reducido á esta ecuacion: A es A. Esto,
@@ -5784,9 +5784,9 @@ identidad. Si la cuestion se presentase bajo el punto de vista de
 Dugald-Steward, seria hasta indigna de ser ventilada: en buena filosofía
 no puede disputarse sobre cosas no solo absurdas sino ridiculas.
 
-# CAPÍTULO XXVIII. {#id00652 style="margin-top: 5em"}
+# CAPÍTULO XXVIII.
 
-##### CONTINUACION. {#id00653}
+##### CONTINUACION.
 
 \[274.\] Expliquemos ahora cómo la doctrina de la identidad se aplica en
 general á todos los raciocinios, versen ó no sobre objetos matemáticos;
@@ -5933,7 +5933,7 @@ la materia hubiera visto que hablando en rigor, no hay tales juicios, y
 en vez de cansarse por resolver el problema se hubiera abstenido de
 suscitarle (XXVI).
 
-## CAPÍTULO XXIX. {#id00665 style="margin-top: 4em"}
+## CAPÍTULO XXIX.
 
 SI HAY VERDADEROS JUICIOS SINTÉTICOS *à priori*, EN EL SENTIDO DE\
 KANT.\
@@ -6305,9 +6305,9 @@ que no proponiéndome tratarlos sino en general, y en cuanto tienen
 relacion con la certeza, no descenderé á pormenores haciendo aplicacion
 á varias ideas, cuyo análisis corresponde á otros lugares de esta obra.
 
-## CAPÍTULO XXX. {#id00704 style="margin-top: 4em"}
+## CAPÍTULO XXX.
 
-##### CRITERIO DE VICO. {#id00705}
+##### CRITERIO DE VICO.
 
 \[294.\] Con las cuestiones de los capítulos anteriores relativas á la
 evidencia inmediata y á la mediata, está enlazada la doctrina de Vico
@@ -6682,9 +6682,9 @@ campo del escepticismo, y no obstante son inevitables en el sistema de
 Vico. Original ocurrencia la de querer combatir el escepticismo con un
 sistema que le abre la mas anchurosa puerta.
 
-## CAPÍTULO XXXI. {#id00733 style="margin-top: 4em"}
+## CAPÍTULO XXXI.
 
-##### CONTINUACION. {#id00734}
+##### CONTINUACION.
 
 \[304.\] Si en algun terreno pudiera ser admitido el criterio del
 filósofo napolitano, seria en el de las verdades ideales. Como estas
@@ -6903,9 +6903,9 @@ sido leidos por algunos modernos, particularmente por los alemanes, cuya
 laboriosidad es proverbial, especialmente en lo que toca á las materias
 de erudicion (XXVII).
 
-## CAPÍTULO XXXII. {#id00752 style="margin-top: 4em"}
+## CAPÍTULO XXXII.
 
-##### CRITERIO DEL SENTIDO COMUN. {#id00753}
+##### CRITERIO DEL SENTIDO COMUN.
 
 \[313.\] *Sentido comun*, hé aquí una expresion sumamente vaga. Como
 todas las expresiones que encierran muchas y diferentes ideas, la de
@@ -7246,9 +7246,9 @@ la lleva el hombre en sí mismo, y que basta el simple ejercicio de las
 facultades armónicas de un ser sensible para que el universo entero se
 revista de esplendor y de galas (XXVIII).
 
-## CAPÍTULO XXXIII. {#id00793 style="margin-top: 4em"}
+## CAPÍTULO XXXIII.
 
-##### ERROR DE LA-MENNAIS SOBRE EL CONSENTIMIENTO COMUN. {#id00794}
+##### ERROR DE LA-MENNAIS SOBRE EL CONSENTIMIENTO COMUN.
 
 \[329.\] La fe instintiva en la autoridad humana de que hablo en el
 capítulo anterior, es un hecho atestiguado por la experiencia y que
@@ -7419,9 +7419,9 @@ influencia en las ciencias exactas. No levantemos á estas sobre las
 morales; tengamos en mas á las morales que á las exactas; pero
 guardémonos de una exageracion que las destruye todas.
 
-## CAPÍTULO XXXIV. {#id00809 style="margin-top: 4em"}
+## CAPÍTULO XXXIV.
 
-##### RESÚMEN Y CONCLUSION. {#id00810}
+##### RESÚMEN Y CONCLUSION.
 
 \[337.\] Quiero terminar este libro, presentando en resúmen mis
 opiniones sobre la certeza. En este resúmen se manifestará tambien el
@@ -7777,9 +7777,9 @@ todos los hombres: no quiero estar reñido con la naturaleza: si no puedo
 ser filósofo, sin dejar de ser hombre, renuncio á la filosofía y me
 quedo con la humanidad.
 
-## NOTAS {#id00852 style="margin-top: 4em"}
+## NOTAS
 
-##### (SOBRE EL CAPÍTULO I.) {#id00853}
+##### (SOBRE EL CAPÍTULO I.)
 
 (I.) Conviene distinguir entre la certeza y la verdad: entre las dos hay
 relaciones íntimas, pero son cosas muy diferentes. La verdad es la
@@ -7810,7 +7810,7 @@ esta admite la apariencia, con la condicion de que le sea desconocida.
 
 \* \* \* \* \*
 
-#### (SOBRE EL CAPÍTULO II.) {#id00860 style="margin-top: 2em"}
+#### (SOBRE EL CAPÍTULO II.)
 
 (II.) El mismo Pirron, no dudaba de todo como creen algunos: admitia las
 sensaciones en cuanto pasivas, y se resignaba á las consecuencias de
@@ -7828,7 +7828,7 @@ certeza de ellas.
 
 \* \* \* \* \*
 
-#### (SOBRE EL CAPÍTULO III.) {#id00863 style="margin-top: 2em"}
+#### (SOBRE EL CAPÍTULO III.)
 
 (III.) Para formarse ideas claras sobre el desarrollo del entendimiento
 y demás facultades de nuestro espíritu véase lo que digo en la obra
@@ -7837,7 +7837,7 @@ XII, XIII, XIV, XVIII y XXII.
 
 \* \* \* \* \*
 
-#### (SOBRE EL CAPÍTULO IV.) {#id00866 style="margin-top: 2em"}
+#### (SOBRE EL CAPÍTULO IV.)
 
 (IV.) Pongo á continuacion los notables pasajes de Santo Tomás, á que me
 he referido en el texto, sobre la unidad y multiplicidad de ideas. Creo
@@ -7906,7 +7906,7 @@ capere possunt (1 p., q. 55. art. 3.).
 
 \* \* \* \* \*
 
-#### (SOBRE EL CAPÍTULO V.) {#id00872 style="margin-top: 2em"}
+#### (SOBRE EL CAPÍTULO V.)
 
 (V.) Hé aquí explicada por el mismo Condillac la idea de su hombre
 estatua: «Para llenar este objeto nos imaginamos una estatua organizada
@@ -7957,7 +7957,7 @@ Pythius Apollo.
 
 \* \* \* \* \*
 
-#### (SOBRE EL CAPÍTULO VI.) {#id00879 style="margin-top: 2em"}
+#### (SOBRE EL CAPÍTULO VI.)
 
 (VI.) En estas materias, son dignas de leerse las obras de los
 escolásticos: al tratar del *objeto de la ciencia*, son á un tiempo
@@ -7966,7 +7966,7 @@ clasificaciones de verdades, que ellos no hayan explicado ó indicado.
 
 \* \* \* \* \*
 
-#### (SOBRE EL CAPÍTULO VII.) {#id00882 style="margin-top: 2em"}
+#### (SOBRE EL CAPÍTULO VII.)
 
 (VII.) No se crea que juzgo con demasiada severidad las formas adoptadas
 por los filósofos alemanes. Sabido es como habla de ellos Madama de
@@ -8007,7 +8007,7 @@ aquello de *mututo nomine, de te fabula ista narratur*.
 
 \* \* \* \* \*
 
-#### (SOBRE EL CAPÍTULO VIII.) {#id00886 style="margin-top: 2em"}
+#### (SOBRE EL CAPÍTULO VIII.)
 
 (VIII.) La lectura de la obra de Schelling, titulada *Sistema del
 idealismo trascendental*, no deja ninguna duda sobre su modo de pensar
@@ -8092,7 +8092,7 @@ aflige el notar que todavía pretende salvar su inconsecuencia.
 
 \* \* \* \* \*
 
-#### (SOBRE EL CAPÍTULO IX.) {#id00897 style="margin-top: 2em"}
+#### (SOBRE EL CAPÍTULO IX.)
 
 (IX.) En estos últimos tiempos no ha faltado quien pretendiese contar al
 ilustre Malebranche entre los partidarios del panteismo. No se concibe
@@ -8122,7 +8122,7 @@ cristiano.
 
 \* \* \* \* \*
 
-#### (SOBRE EL CAPÍTULO X.) {#id00900 style="margin-top: 2em"}
+#### (SOBRE EL CAPÍTULO X.)
 
 (X.) No ignoro las dificultades á que están sujetos los sistemas de
 Leibnitz; pero es preciso dejar bien consignado que en la mente de este
@@ -8213,7 +8213,7 @@ esse de substantia Dei(1 p. q. 90. art. 1).
 
 \* \* \* \* \*
 
-#### (SOBRE EL CAPÍTULO XI.) {#id00912 style="margin-top: 2em"}
+#### (SOBRE EL CAPÍTULO XI.)
 
 \(XI\) En los escolásticos se encuentra á menudo que el entendimiento es
 la misma cosa entendida, aun tratándose de los entendimientos creados;
@@ -8266,7 +8266,7 @@ potencia al de acto, y poniéndole en relacion con la cosa representada.
 
 \* \* \* \* \*
 
-#### (SOBRE EL CAPÍTULO XII.) {#id00917 style="margin-top: 2em"}
+#### (SOBRE EL CAPÍTULO XII.)
 
 (XII.) La doctrina de la inteligibilidad inmediata, es susceptible de
 ulteriores aclaraciones; pero como estas no podrian ser cabales sin
@@ -8275,7 +8275,7 @@ presente tratado, me reservo darlas en el lugar oportuno.
 
 \* \* \* \* \*
 
-#### (SOBRE EL CAPÍTULO XIII.) {#id00920 style="margin-top: 2em"}
+#### (SOBRE EL CAPÍTULO XIII.)
 
 (XIII.) Quizás no bastará lo dicho en el texto para que todos los
 lectores se formen ideas bastante claras y completas de la
@@ -8287,7 +8287,7 @@ existentes, cuestiones que no podria exponer aquí, sin trastornar el
 
 \* \* \* \* \*
 
-#### (SOBRE EL CAPÍTULO XIV.) {#id00923 style="margin-top: 2em"}
+#### (SOBRE EL CAPÍTULO XIV.)
 
 (XIV.) La distincion de los órdenes de ideas, geométrico y no
 geométrico, es de la mayor importancia para la ideología. He adelantado
@@ -8298,7 +8298,7 @@ tratado sobre las ideas del espacio y de la extension.
 
 \* \* \* \* \*
 
-#### (SOBRE CAPÍTULO XV.) {#id00926 style="margin-top: 2em"}
+#### (SOBRE CAPÍTULO XV.)
 
 (XV.) La palabra *instinto* aplicada al entendimiento, claro es que se
 toma en una acepcion muy diferente de cuando se habla de los
@@ -8311,7 +8311,7 @@ mens *instincta* furore.
 
 \* \* \* \* \*
 
-#### (SOBRE EL CAPÍTULO XVI.) {#id00929 style="margin-top: 2em"}
+#### (SOBRE EL CAPÍTULO XVI.)
 
 (XVI.) El orígen de la confusion de ideas en la presente cuestion, es
 esa tendencia á la unidad de que he tratado en el capítulo IV. Se
@@ -8324,7 +8324,7 @@ mayor trascendencia.
 
 \* \* \* \* \*
 
-#### (SOBRE EL CAPÍTULO XVII.) {#id00932 style="margin-top: 2em"}
+#### (SOBRE EL CAPÍTULO XVII.)
 
 (XVII.) Creo haber interpretado fielmente el pensamiento de Descartes,
 mas por si alguna dificultad quedase sobre el particular, pongo á
@@ -8348,7 +8348,7 @@ contribuian á que aclarase sus ideas.
 
 \* \* \* \* \*
 
-#### (SOBRE EL CAPÍTULO XVIII.) {#id00936 style="margin-top: 2em"}
+#### (SOBRE EL CAPÍTULO XVIII.)
 
 (XVIII.) Para formarnos ideas cabales sobre la mente de Descartes,
 oigámosle á él mismo explicando su sistema.
@@ -8449,7 +8449,7 @@ opiniones» (*Discurso sobre el Método*, tercera parte).
 
 \* \* \* \* \*
 
-#### (SOBRE EL CAPÍTULO XIX.) {#id00949 style="margin-top: 2em"}
+#### (SOBRE EL CAPÍTULO XIX.)
 
 (XIX.) Con respecto á la distincion entre el testimonio de la conciencia
 y el de la evidencia, así como en lo tocante al análisis de la
@@ -8470,7 +8470,7 @@ dificultad en notar bien cuáles son las que concebimos distintamente»
 
 \* \* \* \* \*
 
-#### (SOBRE EL CAPÍTULO XX.) {#id00953 style="margin-top: 2em"}
+#### (SOBRE EL CAPÍTULO XX.)
 
 (XX.) La certeza *apodíctica* de que habla Kant en el citado pasaje, es
 la que resulta de la evidencia intrínseca de las ideas; ó en otros
@@ -8478,7 +8478,7 @@ términos, es la misma que en las escuelas suele llamarse metafísica.
 
 \* \* \* \* \*
 
-#### (SOBRE EL CAPÍTULO XXI.) {#id00956 style="margin-top: 2em"}
+#### (SOBRE EL CAPÍTULO XXI.)
 
 (XXI.) A mas de las cuestiones sobre el principio de contradiccion, como
 único fundamento de certeza, hay otras con respecto á su importancia y
@@ -8488,7 +8488,7 @@ tratar de la idea del *ser* en general.
 
 \* \* \* \* \*
 
-#### (SOBRE EL CAPÍTULO XXII.) {#id00959 style="margin-top: 2em"}
+#### (SOBRE EL CAPÍTULO XXII.)
 
 (XXII.) Por un pasaje de Descartes de la cuarta parte de su *Discurso
 sobre el Método*, citado en la nota (XIX), se echa de ver que á mas del
@@ -8511,7 +8511,7 @@ conciencia. La evidencia es un criterio, mas nó el único.
 
 \* \* \* \* \*
 
-#### (SOBRE EL CAPÍTULO XXIII.) {#id00963 style="margin-top: 2em"}
+#### (SOBRE EL CAPÍTULO XXIII.)
 
 (XXIII.) Lo dicho en la proposicion segunda de este capítulo (236), es
 independiente de las disputas sobre el modo con que el alma y el cuerpo
@@ -8522,7 +8522,7 @@ establecer allí.
 
 \* \* \* \* \*
 
-#### (SOBRE EL CAPÍTULO XXIV.) {#id00966 style="margin-top: 2em"}
+#### (SOBRE EL CAPÍTULO XXIV.)
 
 (XXIV.) Para entender mejor lo que se dice en este capítulo sobre la
 evidencia, será útil enterarse bien de las doctrinas expuestas mas abajo
@@ -8530,7 +8530,7 @@ desde el XXVI, hasta el XXXI inclusive.
 
 \* \* \* \* \*
 
-#### (SOBRE EL CAPÍTULO XXV.) {#id00969 style="margin-top: 2em"}
+#### (SOBRE EL CAPÍTULO XXV.)
 
 (XXV.) Por lo dicho en este capítulo se manifiesta la verdad de lo que
 digo en el XXIV, sobre el enlace de los diferentes criterios y la
@@ -8540,7 +8540,7 @@ pero él mismo se destruye, si se niegan los otros.
 
 \* \* \* \* \*
 
-#### (SOBRE LOS CAPÍTULOS XXVI, XXVII Y XXVIII.) {#id00972 style="margin-top: 2em"}
+#### (SOBRE LOS CAPÍTULOS XXVI, XXVII Y XXVIII.)
 
 (XXVI.) Dugald-Steward (P. 2. Cap. 2. Seccion 3. §. 2.) cita un pasaje
 de una disertacion publicada en Berlin en 1764, que no parece tan poco
@@ -8568,7 +8568,7 @@ non repræsentent extensum.»
 
 \* \* \* \* \*
 
-#### (SOBRE LOS CAPÍTULOS XXX Y XXXI.) {#id00976 style="margin-top: 2em"}
+#### (SOBRE LOS CAPÍTULOS XXX Y XXXI.)
 
 (XXVII.) He indicado que quizás Dugald-Steward se habia aprovechado de
 las doctrinas de Vico; sin que por esto quiera hacerle el cargo que se
@@ -8675,7 +8675,7 @@ una página en la historia del espíritu humano.
 
 \* \* \* \* \*
 
-#### (SOBRE EL CAPÍTULO XXXII.) {#id00985 style="margin-top: 2em"}
+#### (SOBRE EL CAPÍTULO XXXII.)
 
 (XXVIII.) El autor á quien aludo (317) es Fenelon, quien bajo el nombre
 de sentido comun, comprende tambien el criterio de la evidencia, como se
@@ -8702,13 +8702,13 @@ nace la evidencia.
 
 \* \* \* \* \*
 
-#### FIN DE LAS NOTAS. {#id00989 style="margin-top: 2em"}
+#### FIN DE LAS NOTAS.
 
-# ÍNDICE DE LAS MATERIAS DEL TOMO PRIMERO. {#id00990 style="margin-top: 5em"}
+# ÍNDICE DE LAS MATERIAS DEL TOMO PRIMERO.
 
-#### LIBRO PRIMERO. {#id00991 style="margin-top: 2em"}
+#### LIBRO PRIMERO.
 
-##### DE LA CERTEZA. {#id00992}
+##### DE LA CERTEZA.
 
 CAPÍTULO PRIMERO. *Importancia y utilidad de las cuestiones sobre la
 certeza*.
@@ -8974,7 +8974,7 @@ de alegoría.
 
 ---Notas.
 
-#### FIN. {#id01062 style="margin-top: 2em"}
+#### FIN.
 
 End of the Project Gutenberg EBook of Filosofia fundamental, by Jaime
 Balmes
@@ -9007,9 +9007,9 @@ printed and given away---you may do practically ANYTHING with public
 domain eBooks. Redistribution is subject to the trademark license,
 especially commercial redistribution.
 
-### \*\*\* START: FULL LICENSE \*\*\* {#id01069 style="margin-top: 3em"}
+### \*\*\* START: FULL LICENSE \*\*\*
 
-##### THE FULL PROJECT GUTENBERG LICENSE PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK {#id01070}
+##### THE FULL PROJECT GUTENBERG LICENSE PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
 
 To protect the Project Gutenberg-tm mission of promoting the free
 distribution of electronic works, by using or distributing this work (or
@@ -9018,7 +9018,7 @@ Gutenberg\"), you agree to comply with all the terms of the Full Project
 Gutenberg-tm License (available with this file or online at
 https://gutenberg.org/license).
 
-#### Section 1. General Terms of Use and Redistributing Project Gutenberg-tm electronic works {#id01072 style="margin-top: 2em"}
+#### Section 1. General Terms of Use and Redistributing Project Gutenberg-tm electronic worksstyle="margin-top: 2em"}
 
 1.A. By reading or using any part of this Project Gutenberg-tm
 electronic work, you indicate that you have read, understand, agree to
@@ -9163,7 +9163,7 @@ Project Gutenberg Literary Archive Foundation and Michael Hart, the
 owner of the Project Gutenberg-tm trademark. Contact the Foundation as
 set forth in Section 3 below.
 
-##### 1.F. {#id01092}
+##### 1.F.
 
 1.F.1. Project Gutenberg volunteers and employees expend considerable
 effort to identify, do copyright research on, transcribe and proofread
@@ -9226,7 +9226,7 @@ or cause to occur: (a) distribution of this or any Project Gutenberg-tm
 work, (b) alteration, modification, or additions or deletions to any
 Project Gutenberg-tm work, and (c) any Defect you cause.
 
-#### Section 2. Information about the Mission of Project Gutenberg-tm {#id01099 style="margin-top: 2em"}
+#### Section 2. Information about the Mission of Project Gutenberg-tm
 
 Project Gutenberg-tm is synonymous with the free distribution of
 electronic works in formats readable by the widest variety of computers
@@ -9244,7 +9244,7 @@ learn more about the Project Gutenberg Literary Archive Foundation and
 how your efforts and donations can help, see Sections 3 and 4 and the
 Foundation web page at https://www.pglaf.org.
 
-#### Section 3. Information about the Project Gutenberg Literary Archive Foundation {#id01102 style="margin-top: 2em"}
+#### Section 3. Information about the Project Gutenberg Literary Archive Foundation2em"}
 
 The Project Gutenberg Literary Archive Foundation is a non profit
 501(c)(3) educational corporation organized under the laws of the state
@@ -9268,7 +9268,7 @@ For additional contact information:\
      Chief Executive and Director\
      gbnewby\@pglaf.org\
 
-#### Section 4. Information about Donations to the Project Gutenberg Literary Archive Foundation {#id01106 style="margin-top: 2em"}
+#### Section 4. Information about Donations to the Project Gutenberg Literary Archive Foundationstyle="margin-top: 2em"}
 
 Project Gutenberg-tm depends upon and cannot survive without wide spread
 public support and donations to carry out its mission of increasing the
@@ -9301,7 +9301,7 @@ methods and addresses. Donations are accepted in a number of other ways
 including including checks, online payments and credit card donations.
 To donate, please visit: https://pglaf.org/donate
 
-#### Section 5. General Information About Project Gutenberg-tm electronic works. {#id01112 style="margin-top: 2em"}
+#### Section 5. General Information About Project Gutenberg-tm electronic works.
 
 Professor Michael S. Hart was the originator of the Project Gutenberg-tm
 concept of a library of electronic works that could be freely shared
