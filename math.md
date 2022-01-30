@@ -11,6 +11,7 @@ Yes, this document takes the strong opinionated stance that mathematics and all 
 The philosophy that informs this wiki is a subspecies of fictionalism. The aforementioned concordance implies, for this author at least, both physical reality and the human mind being shaped by the same hand. I'll explore this vantage point in another article that concerns itself with the philosophy of mathematics.
 
 ## Elements
+
 This discipline is about the following constituent elements.
 
 ## Tags
