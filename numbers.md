@@ -1,4 +1,0 @@
-# Numbers
-
-## Examples
-- 1

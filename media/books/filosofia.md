@@ -22,14 +22,13 @@
 >Distributed Proofreading Team.
 >
 
-
 por D. JAIME BALMES, PRESBITERO.
 
-##### TOMO I.
+## TOMO I
 
 Barcelona: IMPRENTA DE A. BRUSI. 1848
 
-## PRÓLOGO.
+## PRÓLOGO
 
 El título de *Filosofía fundamental*, no significa una pretension
 vanidosa, sino el objeto de que se trata. No me lisonjeo en *fundar* de
