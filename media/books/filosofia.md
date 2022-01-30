@@ -1,63 +1,24 @@
-level - not in
-
-<div>
-
-or
-
-\*/ text-align: justify; /\* or left?? \*/ text-indent: 1em; /\*
-first-line indent \*/ } /\* suppress indentation on paragraphs following
-heads \*/ h2 + p, h3 + p, h4 + p { text-indent: 0 } /\* tighter spacing
-for list item paragraphs \*/ dd, li { margin-top: 0.25em; margin-bottom:
-0; line-height: 1.2em; /\* a bit closer than p\'s \*/ } /\*
-\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
-\* Head 2 is for chapter heads. \*
-\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
-\*/ h2 { /\* text-align:center; left-aligned by default. \*/ margin-top:
-3em; /\* extra space above.. \*/ margin-bottom: 2em; /\* ..and below \*/
-clear: both; /\* don\'t let sidebars overlap \*/ } /\*
-\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
-\* Head 3 is for main-topic heads. \*
-\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
-\*/ h3 { /\* text-align:center; left-aligned by default. \*/ margin-top:
-2em; /\* extra space above but not below \*/ font-weight: normal; /\*
-override default of bold \*/ clear: both; /\* don\'t let sidebars
-overlap \*/ } /\*
-\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
-\* Styling the default HR and some special-purpose ones. \* Default rule
-centered and clear of floats; sized for thought-breaks \*
-\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
-\*/ hr { width: 45%; /\* adjust to ape original work \*/ margin-top:
-1em; /\* space above & below \*/ margin-bottom: 1em; margin-left: auto;
-/\* these two ensure a.. \*/ margin-right: auto; /\* ..centered rule \*/
-clear: both; /\* don\'t let sidebars & floats overlap rule \*/ } /\*
-\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
-\* Images and captions \*
-\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
-\*/ img { /\* the default inline image has \*/ border: 1px solid black;
-/\* a thin black line border.. \*/ padding: 6px; /\* ..spaced a bit out
-from the graphic \*/ }
-
-The Project Gutenberg EBook of Filosofia fundamental, by Jaime Balmes
-
-This eBook is for the use of anyone anywhere at no cost and with almost
-no restrictions whatsoever. You may copy it, give it away or re-use it
-under the terms of the Project Gutenberg License included with this
-eBook or online at www.gutenberg.org
-
-Title: Filosofia fundamental
-
-Author: Jaime Balmes
-
-Release Date: October 5, 2004 \[EBook #13608\]
-
-Language: Spanish
-
-\*\*\* START OF THIS PROJECT GUTENBERG EBOOK FILOSOFIA FUNDAMENTAL
-\*\*\*
-
-Produced by Miranda van de Heijning, Paz Barrios and the PG Online
-Distributed Proofreading Team.
-
+>The Project Gutenberg EBook of Filosofia fundamental, by Jaime Balmes
+>
+>This eBook is for the use of anyone anywhere at no cost and with almost
+>no restrictions whatsoever. You may copy it, give it away or re-use it
+>under the terms of the Project Gutenberg License included with this
+>eBook or online at www.gutenberg.org
+>
+>Title: Filosofia fundamental
+>
+>Author: Jaime Balmes
+>
+>Release Date: October 5, 2004 \[EBook #13608\]
+>
+>Language: Spanish
+>
+>\*\*\* START OF THIS PROJECT GUTENBERG EBOOK FILOSOFIA FUNDAMENTAL
+>\*\*\*
+>
+>Produced by Miranda van de Heijning, Paz Barrios and the PG Online
+>Distributed Proofreading Team.
+>
 # FILOSOFÍA FUNDAMENTAL {#id00008 style="margin-top: 6em"}
 
 por D. JAIME BALMES, PRESBITERO.
