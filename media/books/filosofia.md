@@ -1,3 +1,5 @@
+# FILOSOFÍA FUNDAMENTAL
+
 >The Project Gutenberg EBook of Filosofia fundamental, by Jaime Balmes
 >
 >This eBook is for the use of anyone anywhere at no cost and with almost
@@ -19,7 +21,7 @@
 >Produced by Miranda van de Heijning, Paz Barrios and the PG Online
 >Distributed Proofreading Team.
 >
-# FILOSOFÍA FUNDAMENTAL
+
 
 por D. JAIME BALMES, PRESBITERO.
 
